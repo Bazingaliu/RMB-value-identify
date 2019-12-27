@@ -6,7 +6,7 @@ like the image:
 
 ![1558438993514](img/1558438993514.png)
 
-I wrote the entire implementation process on my GitHub.https://github.com/xr0927/project3--RMB-value-identify
+I wrote the entire implementation process on my GitHub
 
 ------
 
